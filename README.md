@@ -2,7 +2,7 @@
 
 
 
-#Features   
+# Features   
 
 1.Automatically reading SMS with hash code
 
@@ -24,7 +24,7 @@
 
 
 
-#Technologies
+# Technologies
 
 MVVM 
 
