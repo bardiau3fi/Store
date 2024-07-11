@@ -75,5 +75,7 @@ DynamicSize
 Play services 
 
 MPAndroidChart 
+
 Persian Date Picker 
+
 SSImagePicker
