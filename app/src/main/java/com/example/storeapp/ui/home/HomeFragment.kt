@@ -355,7 +355,7 @@ class HomeFragment : BaseFragment() {
     private fun showVpnDialog() {
         val dialog = Dialog(requireContext())
         val dialogBinding = DialogCheckVpnBinding.inflate(layoutInflater)
-        dialog.transparentCorners() // حتما باید قبل از مرحله  setCotentCorners تغییرات مربوط به window ها انجام شود
+        dialog.transparentCorners() 
         dialog.setContentView(dialogBinding.root)
 
         dialogBinding.yesBtn.setOnClickListener { dialog.dismiss() }
